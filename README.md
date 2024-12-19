@@ -1,4 +1,4 @@
-<h1>GitCatacao's GitHub</h1>
+# GitCatacao's GitHub
 
 
 GitCatacao it's better then the best.
@@ -13,4 +13,4 @@ GitCataco is nobody and everyone
 
 GitCataco doesn't know the code, but the code knows GitCataco 👺👿
 
-# See the GitHub Website https://gitcatacao.github.io/
+## See the GitHub Website https://gitcatacao.github.io/
