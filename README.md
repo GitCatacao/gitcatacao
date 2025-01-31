@@ -13,5 +13,21 @@
 
 @GitCatacao doesn't know the code, but the code knows GitCatacao 👺👿
 
+@GitCatacao has 12 arms and 12 hands, but a little less feet than a millipede 🐞
+
+
+
+@GitCatacao greets everyone with the Vulcan salute in the WiFi 🖖
+<!--
+
+For anyone who wants to know, that's my very beautiful wife
+
+![My Wife](https://i.ibb.co/s9j4DpXM/Ugly-Girl-transformed.webp)
+
+
+-->
+
 ### For other info see the GitHub Website 👨‍💻
+
 ### https://gitcatacao.github.io/
+
