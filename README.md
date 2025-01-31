@@ -13,7 +13,7 @@
 
 @GitCatacao doesn't know the code, but the code knows GitCatacao 👺👿
 
-@GitCatacao has 12 arms and 12 hands, but a little less feet than a millipede 🐞
+@GitCatacao has 12 arms and 12 hands and a little less feet than a millipede 🐞
 
 
 
