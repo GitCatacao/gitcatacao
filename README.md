@@ -31,3 +31,4 @@ For anyone who wants to know, that's my very beautiful wife
 
 ### https://gitcatacao.github.io/
 
+![GitCatacao's Stats](https://github-readme-stats.vercel.app/api?username=GitCatacao&show_icons=true&theme=radical)
